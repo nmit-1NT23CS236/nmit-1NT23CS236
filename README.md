@@ -170,7 +170,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:siddugoranal540@gmail.com)](mailto:siddugoranal540@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/siddaram-mallikarjun-goranal-7321182b9/)](https://www.linkedin.com/in/siddaram-mallikarjun-goranal-7321182b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/siddaram2k25)](https://github.com/siddaram2k25)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nmit-1NT23CS236)](https://github.com/nmit-1NT23CS236)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white&link=https://siddaram2k25.github.io/portfolio/)](https://siddaram2k25.github.io/portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&link=https://leetcode.com/u/siddu_1234__ss/)](https://leetcode.com/u/siddu_1234__ss/)
 
