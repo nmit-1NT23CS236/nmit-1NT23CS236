@@ -67,10 +67,10 @@
 ## 📊 GitHub Statistics
 
 ### 🏆 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=siddaram2k25&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ### 📈 Most Used Languages  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siddaram2k25&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&langs_count=8)
 
 
 
