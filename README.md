@@ -73,13 +73,32 @@
 
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&hide_border=true"/>
+  <!-- GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&hide_border=true&v=1" />
 
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&hide_border=true"/>
+  <!-- Top Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&hide_border=true&v=1" />
 
-  <br/><br/>
+</div>
 
-  <img width="60%" src="https://streak-stats.demolab.com?user=nmit-1NT23CS236&theme=radical&hide_border=true"/>
+<br/>
+
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img width="60%" src="https://streak-stats.demolab.com?user=nmit-1NT23CS236&theme=radical&hide_border=true" />
+
+</div>
+
+<br/>
+
+## ⚡ GitHub Activity
+
+<div align="center">
+
+  <img src="https://img.shields.io/github/followers/nmit-1NT23CS236?style=for-the-badge&color=00bcd4" />
+  <img src="https://img.shields.io/github/stars/nmit-1NT23CS236?style=for-the-badge&color=00bcd4" />
+  <img src="https://img.shields.io/github/repos/nmit-1NT23CS236?style=for-the-badge&color=00bcd4" />
 
 </div>
 
