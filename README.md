@@ -12,7 +12,7 @@
 
 <!-- Stats Badges - Working -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddaram2k25&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nmit-1NT23CS236&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat&logo=github" alt="Status" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes-blue?style=flat&logo=linkedin" alt="Opportunities" />
 </p>
@@ -72,9 +72,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddaram2k25&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaram2k25&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -83,39 +83,39 @@
 
 ### 🤖 AI & Machine Learning Projects
 <div align="center">
-  <a href="https://github.com/siddaram2k25/Netflix-Database-Analysis-DVP1">
+  <a href="https://github.com/nmit-1NT23CS236/Netflix-Database-Analysis-DVP1">
     <img src="https://img.shields.io/badge/🎬_Netflix_Data_Analysis-FF0000?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Analysis"/>
   </a>
-  <a href="https://github.com/siddaram2k25/Resume-Shortlisting-AI">
+  <a href="https://github.com/nmit-1NT23CS236/Resume-Shortlisting-AI">
     <img src="https://img.shields.io/badge/🤖_Resume_Shortlisting_AI-00BCD4?style=for-the-badge&logo=python&logoColor=white" alt="Resume AI"/>
   </a>
-  <a href="https://github.com/siddaram2k25/SWASTYA_AI_">
+  <a href="https://github.com/nmit-1NT23CS236/SWASTYA_AI_">
     <img src="https://img.shields.io/badge/🌐_Swasthya_AI_Healthcare-4CAF50?style=for-the-badge&logo=flask&logoColor=white" alt="Swasthya AI"/>
   </a>
 </div>
 
 ### 🌐 Full Stack Applications
 <div align="center">
-  <a href="https://github.com/siddaram2k25/ECOFINDS">
+  <a href="https://github.com/nmit-1NT23CS236/ECOFINDS">
     <img src="https://img.shields.io/badge/♻️_ECOFINDS_Sustainability-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white" alt="ECOFINDS"/>
   </a>
-  <a href="https://github.com/siddaram2k25/SimpleBusTicket-PHP">
+  <a href="https://github.com/nmit-1NT23CS236/SimpleBusTicket-PHP">
     <img src="https://img.shields.io/badge/🚌_Bus_Ticket_Booking-FF9800?style=for-the-badge&logo=php&logoColor=white" alt="Bus Booking"/>
   </a>
-  <a href="https://github.com/siddaram2k25/portfolio">
+  <a href="https://github.com/nmit-1NT23CS236/portfolio">
     <img src="https://img.shields.io/badge/🎨_Portfolio_Website-9C27B0?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 ### ⚡ Innovative Solutions
 <div align="center">
-  <a href="https://github.com/siddaram2k25/first-pr-nmit">
+  <a href="https://github.com/nmit-1NT23CS236/first-pr-nmit">
     <img src="https://img.shields.io/badge/🎯_KBC_Quiz_Game-FFC107?style=for-the-badge&logo=gamepad&logoColor=black" alt="KBC Game"/>
   </a>
-  <a href="https://github.com/siddaram2k25/scaledown">
+  <a href="https://github.com/nmit-1NT23CS236/scaledown">
     <img src="https://img.shields.io/badge/📉_ScaleDown_AI_Compression-03A9F4?style=for-the-badge&logo=python&logoColor=white" alt="ScaleDown AI"/>
   </a>
-  <a href="https://github.com/siddaram2k25/Calculator">
+  <a href="https://github.com/nmit-1NT23CS236/Calculator">
     <img src="https://img.shields.io/badge/🧮_Smart_Calculator-FF5722?style=for-the-badge&logo=javascript&logoColor=white" alt="Calculator"/>
   </a>
 </div>
@@ -178,7 +178,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddugoranal540@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddaram-mallikarjun-goranal-7321182b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddaram2k25)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nmit-1NT23CS236)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://siddaram2k25.github.io/portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddu_1234__ss/)
 
