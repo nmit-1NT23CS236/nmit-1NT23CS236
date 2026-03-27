@@ -2,17 +2,22 @@
 
 <div align="center">
 
-<!-- Header Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Hello,+World!+🌍;Welcome+to+my+development+space;I'm+Siddaram+Goranal;Full+Stack+Developer+💻;AI+Enthusiast+🤖;Problem+Solver+🎯" alt="Typing Animation" />
+<!-- Header Typing Effect - Static replacement since animated service may not be reliable -->
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  Hello, World! 🌍
+</h1>
+<h2>Welcome to my development space</h2>
+<h2>I'm Siddaram Goranal</h2>
+<h3>Full Stack Developer 💻 | AI Enthusiast 🤖 | Problem Solver 🎯</h3>
 
 <!-- Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddaram2k25&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nmit-1NT23CS236&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunies-Yes-blue?style=flat&logo=linkedin" alt="Opportunities" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes-blue?style=flat&logo=linkedin" alt="Opportunities" />
+  <img src="https://img.shields.io/github/followers/nmit-1NT23CS236?label=Followers&style=social" alt="GitHub Followers" />
 </p>
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
 </div>
 
@@ -33,11 +38,11 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-Enterprise-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Enterprise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Flexbox/Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Flexbox%2FGrid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌐 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -62,23 +67,26 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
+
 ## 📊 GitHub Statistics
 
-### 🏆 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmit-1NT23CS236&theme=radical" alt="GitHub Streak" />
+</div>
 
-### 📈 Most Used Languages  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&langs_count=8)
-
-
-
+---
 
 ## 🏆 Featured Projects
 
 ### 🤖 AI & Machine Learning Projects
-<p align="center">
+<div align="center">
   <a href="https://github.com/nmit-1NT23CS236/Netflix-Database-Analysis-DVP1">
     <img src="https://img.shields.io/badge/🎬_Netflix_Data_Analysis-FF0000?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Analysis"/>
   </a>
@@ -88,10 +96,10 @@
   <a href="https://github.com/nmit-1NT23CS236/SWASTYA_AI_">
     <img src="https://img.shields.io/badge/🌐_Swasthya_AI_Healthcare-4CAF50?style=for-the-badge&logo=flask&logoColor=white" alt="Swasthya AI"/>
   </a>
-</p>
+</div>
 
 ### 🌐 Full Stack Applications
-<p align="center">
+<div align="center">
   <a href="https://github.com/nmit-1NT23CS236/ECOFINDS">
     <img src="https://img.shields.io/badge/♻️_ECOFINDS_Sustainability-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white" alt="ECOFINDS"/>
   </a>
@@ -101,17 +109,20 @@
   <a href="https://github.com/nmit-1NT23CS236/portfolio">
     <img src="https://img.shields.io/badge/🎨_Portfolio_Website-9C27B0?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
 
 ### ⚡ Innovative Solutions
-<p align="center">
+<div align="center">
   <a href="https://github.com/nmit-1NT23CS236/first-pr-nmit">
     <img src="https://img.shields.io/badge/🎯_KBC_Quiz_Game-FFC107?style=for-the-badge&logo=gamepad&logoColor=black" alt="KBC Game"/>
   </a>
   <a href="https://github.com/nmit-1NT23CS236/scaledown">
     <img src="https://img.shields.io/badge/📉_ScaleDown_AI_Compression-03A9F4?style=for-the-badge&logo=python&logoColor=white" alt="ScaleDown AI"/>
   </a>
-</p>
+  <a href="https://github.com/nmit-1NT23CS236/Calculator">
+    <img src="https://img.shields.io/badge/🧮_Smart_Calculator-FF5722?style=for-the-badge&logo=javascript&logoColor=white" alt="Calculator"/>
+  </a>
+</div>
 
 ---
 
@@ -125,7 +136,7 @@
 | **MongoDB Java Developer** | MongoDB University | 2023 | ✅ Completed |
 | **Microsoft Generative AI** | Microsoft Learn | 2024 | ✅ Completed |
 | **OSCode Code Sih Winner** | OSCode | 2025 | 🏆 Winner |
-| **Adobe Hackathon** | Adobe  | 2023 | 🏆 Participant |
+| **Adobe Hackathon** | Adobe | 2023 | 🏆 Participant |
 | **Odoo Hackathon 2025** | Odoo Community | 2025 | 🎯 Finalist |
 | **IBM Data Fundamentals** | IBM SkillsBuild | 2023 | ✅ Completed |
 | **Google Cloud Fundamentals** | Google Cloud | 2024 | ✅ Completed |
@@ -149,6 +160,7 @@
 - Software Engineering
 - Computer Networks
 - Operating Systems
+- Cloud Computing
 
 ---
 
@@ -168,13 +180,12 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:siddugoranal540@gmail.com)](mailto:siddugoranal540@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/siddaram-mallikarjun-goranal-7321182b9/)](https://www.linkedin.com/in/siddaram-mallikarjun-goranal-7321182b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nmit-1NT23CS236)](https://github.com/nmit-1NT23CS236)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white&link=https://siddaram2k25.github.io/portfolio/)](https://siddaram2k25.github.io/portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&link=https://leetcode.com/u/siddu_1234__ss/)](https://leetcode.com/u/siddu_1234__ss/)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddugoranal540@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddaram-mallikarjun-goranal-7321182b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nmit-1NT23CS236)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://siddaram2k25.github.io/portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddu_1234__ss/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 </div>
 
@@ -188,15 +199,21 @@
 ├── Learning & Research: ████████ 40%
 ├── Open Source:         ████ 20%
 ├── Documentation:       ██ 10%
-└── Debugging:          █████ 25%
----
+└── Debugging:           █████ 25%
 
-## ⚡ Quick Facts About Me
-- 🎯 Currently Learning: Advanced React & Node.js  
-- 🔭 Working On: AI-powered personal assistant  
-- 🌱 Exploring: Machine Learning & Deep Learning  
-- 💬 Ask me about: Web Development, Python, Java  
-- 📫 Reach me at: **siddugoranal540@gmail.com**
+⚡ Quick Facts About Me
+🎯 Currently Learning: Advanced React & Node.js
 
-> "The beautiful thing about learning is that no one can take it away from you"  
-⭐ Don't forget to star my repositories if you find them interesting!
+🔭 Working On: AI-powered personal assistant
+
+🌱 Exploring: Machine Learning & Deep Learning
+
+💬 Ask me about: Web Development, Python, Java
+
+📫 Reach me at: siddugoranal540@gmail.com
+
+🎯 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nmit-1NT23CS236&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </div>
+"The beautiful thing about learning is that no one can take it away from you"
+
+<div align="center"> ⭐ Don't forget to star my repositories if you find them interesting!
