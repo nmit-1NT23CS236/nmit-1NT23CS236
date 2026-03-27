@@ -73,15 +73,13 @@
 
 <div align="center">
 
-  <!-- Row 1: Stats + Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&cache_seconds=86400" height="180" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nmit-1NT23CS236&show_icons=true&theme=radical&hide_border=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=ffffff&cache_seconds=86400" height="180" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nmit-1NT23CS236&layout=compact&theme=radical&hide_border=true"/>
 
   <br/><br/>
 
-  <!-- Row 2: Streak -->
-  <img src="https://streak-stats.demolab.com?user=nmit-1NT23CS236&theme=radical&hide_border=true&background=0D1117&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" height="180"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=nmit-1NT23CS236&theme=radical&hide_border=true"/>
 
 </div>
 
