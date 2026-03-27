@@ -79,36 +79,36 @@
 
 ### 🤖 AI & Machine Learning Projects
 <p align="center">
-  <a href="https://github.com/siddaram2k25/Netflix-Database-Analysis-DVP1">
+  <a href="https://github.com/nmit-1NT23CS236/Netflix-Database-Analysis-DVP1">
     <img src="https://img.shields.io/badge/🎬_Netflix_Data_Analysis-FF0000?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Analysis"/>
   </a>
-  <a href="https://github.com/siddaram2k25/Resume-Shortlisting-AI">
+  <a href="https://github.com/nmit-1NT23CS236/Resume-Shortlisting-AI">
     <img src="https://img.shields.io/badge/🤖_Resume_Shortlisting_AI-00BCD4?style=for-the-badge&logo=python&logoColor=white" alt="Resume AI"/>
   </a>
-  <a href="https://github.com/siddaram2k25/SWASTYA_AI_">
+  <a href="https://github.com/nmit-1NT23CS236/SWASTYA_AI_">
     <img src="https://img.shields.io/badge/🌐_Swasthya_AI_Healthcare-4CAF50?style=for-the-badge&logo=flask&logoColor=white" alt="Swasthya AI"/>
   </a>
 </p>
 
 ### 🌐 Full Stack Applications
 <p align="center">
-  <a href="https://github.com/siddaram2k25/ECOFINDS">
+  <a href="https://github.com/nmit-1NT23CS236/ECOFINDS">
     <img src="https://img.shields.io/badge/♻️_ECOFINDS_Sustainability-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white" alt="ECOFINDS"/>
   </a>
-  <a href="https://github.com/siddaram2k25/SimpleBusTicket-PHP">
+  <a href="https://github.com/nmit-1NT23CS236/SimpleBusTicket-PHP">
     <img src="https://img.shields.io/badge/🚌_Bus_Ticket_Booking-FF9800?style=for-the-badge&logo=php&logoColor=white" alt="Bus Booking"/>
   </a>
-  <a href="https://github.com/siddaram2k25/portfolio">
+  <a href="https://github.com/nmit-1NT23CS236/portfolio">
     <img src="https://img.shields.io/badge/🎨_Portfolio_Website-9C27B0?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ### ⚡ Innovative Solutions
 <p align="center">
-  <a href="https://github.com/siddaram2k25/first-pr-nmit">
+  <a href="https://github.com/nmit-1NT23CS236/first-pr-nmit">
     <img src="https://img.shields.io/badge/🎯_KBC_Quiz_Game-FFC107?style=for-the-badge&logo=gamepad&logoColor=black" alt="KBC Game"/>
   </a>
-  <a href="https://github.com/siddaram2k25/scaledown">
+  <a href="https://github.com/nmit-1NT23CS236/scaledown">
     <img src="https://img.shields.io/badge/📉_ScaleDown_AI_Compression-03A9F4?style=for-the-badge&logo=python&logoColor=white" alt="ScaleDown AI"/>
   </a>
 </p>
