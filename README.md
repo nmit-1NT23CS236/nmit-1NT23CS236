@@ -92,15 +92,6 @@
 
 <br/>
 
-## ⚡ GitHub Activity
-
-<div align="center">
-
-  <img src="https://img.shields.io/github/followers/nmit-1NT23CS236?style=for-the-badge&color=00bcd4" />
-  <img src="https://img.shields.io/github/stars/nmit-1NT23CS236?style=for-the-badge&color=00bcd4" />
-  <img src="https://img.shields.io/github/repos/nmit-1NT23CS236?style=for-the-badge&color=00bcd4" />
-
-</div>
 
 ---
 
